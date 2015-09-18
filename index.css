@@ -1,5 +1,9 @@
  .slides article   { background-image:none !important; background-color:#F88017  !important;  font-size:40px !important; font-family: 'Montserrat', sans-serif !important}
- .slides article h1  {font-size:80px !important; color:white !important;}
+ .slides article h1  {font-size:80px !important; color:white !important; }
+ .slides article h3  {font-size:50px !important; font-family: 'Lobster Two', cursive; color:black !important;}
+ .slides article h3.big  {font-size:70px !important; font-family: 'Lobster Two', cursive; color:black !important;}
 
- .slides article.manifesto  {background-image:url("images/background.jpg")  !important;  background-size: 800px 600px !important; 
+ .slides article ul  {font-size:50px !important; font-family: 'Montserrat', cursive; color:white !important;}
+ .slides article p  {font-size:50px !important; font-family: 'Montserrat', cursive; color:white !important;}
+ .slides article.manifesto  { background-size: 800px 600px !important; 
     background-repeat: no-repeat;}
